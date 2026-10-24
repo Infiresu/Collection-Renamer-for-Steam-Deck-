@@ -1,4 +1,4 @@
-# Collection Renamer
+# Collection Renamer (for Steam Deck)
 
 Decky Loader plugin for Steam Deck: rename Steam collections right in Gaming Mode.
 
