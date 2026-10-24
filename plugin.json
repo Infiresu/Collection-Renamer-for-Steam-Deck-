@@ -1,0 +1,14 @@
+{
+  "name": "Collection Renamer",
+  "author": "Infiresu",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "library",
+      "utility"
+    ],
+    "description": "Rename Steam collections right in Gaming Mode: adds a \"Rename\" item to the collection menu.",
+    "image": "https://opengraph.githubassets.com/1/Infiresu/collection-renamer"
+  }
+}
