@@ -1,19 +1,14 @@
 # Collection Renamer (for Steam Deck)
-
-Decky Loader plugin for Steam Deck: rename Steam collections right in Gaming Mode.
+<img width="1920" height="1080" alt="Collection Renamer" src="https://github.com/user-attachments/assets/25c4e87b-0b1f-4b3a-8f25-fbbf411130b0" />
 
 **Disclaimer: AI was actively used in the development process.**
 Tested several times in various situations, and no issues were observed.
 Should any problems arise, please let me know. And, if possible, describe the scenario in which they occurred.
 
+Decky Loader plugin for Steam Deck: rename Steam collections right in Gaming Mode.
 - Adds **Rename** to the collection menu (the ☰ / Options button), next to "Delete collection".
 - All collections are also listed in the plugin's Quick Access panel for quick renaming.
 - Fixes scroll jitter of the Collections grid when tiles are bigger than Steam's default **(for Customizable Collections CSS Loader theme).**
-
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/ce70f3d7-3adb-4ef1-8038-249c6b7813e8" />
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/a0dada4d-204c-4673-8a42-8f95e838b7c8" />
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/78be6de4-a740-4db2-831e-023cd4a61cca" />
-
 
 ## Installation
 Use developer mode in Decky Loader and install the plugin via a .zip file in the corresponding tab.
