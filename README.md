@@ -15,12 +15,4 @@ Use developer mode in Decky Loader and install the plugin via a .zip file in the
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/3a413bd0-1acd-4f34-9fd4-4e1df9a98abb" />
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/748264a2-ad6a-4cb9-8140-c82dde9ad68b" />
 
-## Build
-```
-npm i
-npm run build
-```
-Copy `plugin.json`, `main.py`, `package.json`, `LICENSE` and `dist/` to `~/homebrew/plugins/collection-renamer/`.
-
-
 Author: Infiresu · License: BSD-3-Clause
